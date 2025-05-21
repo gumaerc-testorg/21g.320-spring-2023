@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21g-320-introduction-to-french-literature-spring-2023/mit21g-320s23.jpeg
+file: courses/introduction-to-french-literature/mit21g-320s23.jpeg
 file_size: 5969781
 file_type: image/jpeg
 image_metadata:
